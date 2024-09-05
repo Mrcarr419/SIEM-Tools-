@@ -17,3 +17,6 @@
 
 
 <img width="1440" alt="Screenshot 2024-09-04 at 5 10 30 PM" src="https://github.com/user-attachments/assets/b9ca52ca-7eb0-43eb-beb7-5f07f6c730c6">
+
+#visuals of the graph with identifying all secyrity events
+<img width="1440" alt="Screenshot 2024-09-04 at 7 50 20 PM" src="https://github.com/user-attachments/assets/721bb010-539b-405a-9c9e-1788c6652682">
